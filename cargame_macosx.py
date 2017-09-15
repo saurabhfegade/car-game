@@ -1,8 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Sep  6 01:12:21 2017
-"""
-
 import cv2
 import numpy as np
 import time
